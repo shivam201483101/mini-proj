@@ -54,9 +54,9 @@ export function NavBar() {
           alignItems: "center",
         }}
       >
-        <a href="https://shivam201483101.github.io/Landing/"><MotionPhotosAutoTwoToneIcon></MotionPhotosAutoTwoToneIcon></a>
-        <h3>Algo-Visualizer</h3>
-       
+       <MotionPhotosAutoTwoToneIcon></MotionPhotosAutoTwoToneIcon>
+         <a href="https://shivam201483101.github.io/Landing/"><h3>Algo-Visualizer</h3></a>
+       <a href="https://github.com/shivam201483101/mini-proj"><AiFillGithub/></a>
       </div>
       <AppBar position="static" color="default">
         <Tabs
